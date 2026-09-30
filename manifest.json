@@ -9,11 +9,11 @@
   "tweaks": {
     "version": "20.40.0",
     "downloadUrl": "https://github.com/ocohen537-lang/Ghostdyze-releases/releases/download/v20.40.0/GhostdyzeTweaks_v20.40.0.zip",
-    "sha256": "a735d595246605264b05dbf98e447d6b2a3cc8552babcbb7da878f48f0798c50"
+    "sha256": "a735d595246605264b05dbf98e447d6b2a3cc8552babcb7da878f48f0798c50"
   },
   "aimTrainer": {
     "version": "20.40.0",
-    "downloadUrl": "https://github.com/ocohen537-lang/Ghostdyze-releases/download/v20.40.0/GhostdyzeAimTrainer_v20.40.0.zip",
+    "downloadUrl": "https://github.com/ocohen537-lang/Ghostdyze-releases/releases/download/v20.40.0/GhostdyzeAimTrainer_v20.40.0.zip",
     "sha256": "67080dabae93c437366ad4febbd63315c13f205996758468c2be97d704c0e944"
   }
 }
