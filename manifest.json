@@ -1,14 +1,14 @@
 {
-  "version": "20.40.1",
-  "notes": "Ghostdyze v20.40.1",
-  "tweaks": {
-    "version": "20.40.0",
-    "downloadUrl": "https://github.com/ocohen537-lang/Ghostdyze-releases/releases/download/v20.40.0/GhostdyzeTweaks_v20.40.0.zip",
-    "sha256": "A735D595246605264B05DBF98E447D6B2A3CC8552BABCB7D0A878F48F0798C50"
-  },
-  "aimTrainer": {
-    "version": "20.40.1",
-    "downloadUrl": "https://github.com/ocohen537-lang/Ghostdyze-releases/releases/download/v20.40.1/GhostdyzeAimTrainer_v20.40.1.zip",
-    "sha256": "7F16866F7A11E81D35F1668ECADF08BA27A2E5EDFF70A49DBBAE3E9FB9A7B71A"
-  }
+    "version":  "20.40.0",
+    "notes":  "Ghostdyze v20.40.0 + Aim Trainer v20.40.1",
+    "tweaks":  {
+                   "version":  "20.40.0",
+                   "downloadUrl":  "https://github.com/ocohen537-lang/Ghostdyze-releases/releases/download/v20.40.0/GhostdyzeTweaks_v20.40.0.zip",
+                   "sha256":  "A735D595246605264B05DBF98E447D6B2A3CC8552BABCBB7DA878F48F0798C50"
+               },
+    "aimTrainer":  {
+                       "version":  "20.40.1",
+                       "downloadUrl":  "https://github.com/ocohen537-lang/Ghostdyze-releases/releases/download/v20.40.1/GhostdyzeAimTrainer_v20.40.1.zip",
+                       "sha256":  "7F16866F7A11E81D35F1668ECADF08BA27A2E5EDFF70A49DBBAE3E9FB9A7B71A"
+                   }
 }
